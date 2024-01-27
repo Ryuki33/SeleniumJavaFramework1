@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-31T14:32:32 NZDT" name="Default suite" finished-at="2023-12-31T14:32:40 NZDT" duration-ms="8270">
+    <groups>
+    </groups>
+    <test started-at="2023-12-31T14:32:32 NZDT" name="Default test" finished-at="2023-12-31T14:32:40 NZDT" duration-ms="8270">
+      <class name="demo.RecorderDemo">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:demo.RecorderDemo@4b741d6d]" started-at="2023-12-31T14:32:32 NZDT" name="setUp" finished-at="2023-12-31T14:32:34 NZDT" duration-ms="2025" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testRecorderDemo()[pri:0, instance:demo.RecorderDemo@4b741d6d]" started-at="2023-12-31T14:32:34 NZDT" name="testRecorderDemo" finished-at="2023-12-31T14:32:39 NZDT" duration-ms="5604" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRecorderDemo -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:demo.RecorderDemo@4b741d6d]" started-at="2023-12-31T14:32:39 NZDT" name="tearDown" finished-at="2023-12-31T14:32:40 NZDT" duration-ms="614" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- demo.RecorderDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,18 @@
+[INFO ] 2023-12-25 17:29:49.956 [main] Log4jDemo - This is information message
+[ERROR] 2023-12-25 17:29:49.959 [main] Log4jDemo - This is an error message
+[WARN ] 2023-12-25 17:29:49.959 [main] Log4jDemo - THis is a warning message
+[FATAL] 2023-12-25 17:29:49.959 [main] Log4jDemo - This is a fatal message
+[INFO ] 2023-12-25 17:30:40.802 [main] Log4jDemo - This is information message
+[ERROR] 2023-12-25 17:30:40.804 [main] Log4jDemo - This is an error message
+[WARN ] 2023-12-25 17:30:40.804 [main] Log4jDemo - THis is a warning message
+[FATAL] 2023-12-25 17:30:40.804 [main] Log4jDemo - This is a fatal message
+[TRACE] 2023-12-25 17:31:07.726 [main] Log4jDemo - This is a trace message
+[INFO ] 2023-12-25 17:31:07.728 [main] Log4jDemo - This is information message
+[ERROR] 2023-12-25 17:31:07.735 [main] Log4jDemo - This is an error message
+[WARN ] 2023-12-25 17:31:07.735 [main] Log4jDemo - THis is a warning message
+[FATAL] 2023-12-25 17:31:07.735 [main] Log4jDemo - This is a fatal message
+[TRACE] 2023-12-27 01:03:09.216 [main] Log4jDemo - This is a trace message
+[INFO ] 2023-12-27 01:03:09.219 [main] Log4jDemo - This is information message
+[ERROR] 2023-12-27 01:03:09.219 [main] Log4jDemo - This is an error message
+[WARN ] 2023-12-27 01:03:09.219 [main] Log4jDemo - THis is a warning message
+[FATAL] 2023-12-27 01:03:09.219 [main] Log4jDemo - This is a fatal message

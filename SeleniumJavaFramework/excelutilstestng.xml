@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="Test">
+  	<parameter name="excelPath" value="C:/Users/wilso/SeleniumTraining/SeleniumJavaFramework/excel/data.xlsx"></parameter>
+  	<parameter name="sheetName" value="Sheet1"></parameter>
+  	<classes>
+  		<class name="utils.ExcelUtils"></class>
+  	</classes>
+  </test> 
+</suite>
